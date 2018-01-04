@@ -3,7 +3,9 @@ layout: article
 title:  "期中专案"
 date:   2017-12-01 22:07:50 +0800
 categories: notes_tech Jekyll
-image:/images/14-15092310000H54.jpg
+image:
+  teaser: 14-15092310000H54.jpg
+  feature: 14-15092310000H54.jpg
 
 ---
 欲用 `GitHub` 空間，可先自裝 [GitHub Desktop][GitHub_Desktop] 這開發環境工具。
