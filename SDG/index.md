@@ -6,7 +6,7 @@ modified:
 excerpt: "给div元素赋予一个好理解的标记很有必要"
 tags: []
 image: 
-  feature: timg.jpg
+  feature: colorful line.jpg
   teaser:
 ---
 
