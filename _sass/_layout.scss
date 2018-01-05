@@ -367,8 +367,24 @@
 		@include font-size(12);
 		color: lighten($black,60);
 		a {
-			color: lighten($black,60);
+			
 			text-decoration: none;
 		}
 	}
 }
+
+
+/*
+   Printer Setup
+========================================================================== */
+@page {
+   size: A4;
+   margin: 0;
+} 
+
+ 
+@media print { 
+    #masthead, nav, button, html [type=button], .menu-screen { 
+	    display: none;
+	} 
+	html, body { 
