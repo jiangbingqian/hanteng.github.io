@@ -22,14 +22,14 @@ $border-radius               	: 3px;
 
 /*
    Color variables
-   Background : Oxford Blue #002147  http://encycolorpedia.cn/002147
+   Background : red #ce0000  http://encycolorpedia.cn/ce0000
    奶油色／Cream #fffdd0
    text-color: white
    ========================================================================== */
 
 $white                        : #fff; 
 $black                        : #000;
-$oxfordblue                   : #002147;
+$red                          : #ce0000;
 $cream                        : #fffdd0;
 $lemon                        : #fff700;
 
@@ -38,12 +38,12 @@ $body-color                  	: #ebebeb;
 $text-color                  	: #313130;
 $caption-color                : mix($white, $text-color, 25%);
 
-$base-color                  	: $oxfordblue;
+$base-color                  	: $red;
 $comp-color                  	: complement($base-color);
 $border-color                	: #ddd;
 $link-color                  	: #222;
 
-$primary-color               	: $oxfordblue;
+$primary-color               	: $red;
 $success-color               	: #2ecc71;
 $warning-color               	: #f1c40f;
 $danger-color                	: #e74c3c;
@@ -89,10 +89,10 @@ $form-font-size              	: $doc-font-size;
    Sliding menu navigation variables
    ========================================================================== */
 
-$sliding-menu-border-color	 	   : $oxfordblue;
-$sliding-menu-background 		   : $oxfordblue;
+$sliding-menu-border-color	 	   : $red;
+$sliding-menu-background 		   : $red;
 $sliding-menu-color 	 		   : $white;
-$sliding-menu-background-hover     : $oxfordblue;
+$sliding-menu-background-hover     : $red;
 $sliding-menu-color-hover	 	   : $cream;
 $sliding-menu-border   			   : 1px solid $sliding-menu-border-color;
 $button-size		         	   : 30px;
