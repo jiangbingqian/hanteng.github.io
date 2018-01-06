@@ -1,11 +1,11 @@
 # Site wide configuration
 
 title: "江冰茜的个人学习博客"
-description: "最新文章"
-affiliation: "中山大学南方学院 <a href = 'http://wcy.nfu.edu.cn/zh/教学教务/培养方案/网络与新媒体/'>网络与新媒体</a> 培养方案核心课程学期作品，由 <a href='http://wcy.nfu.edu.cn/zh/学院概况/师资队伍/廖汉腾/'>廖汉腾副教授</a> 指导" 
+description: "不如我们从头来过"
+affiliation: "中山大学南方学院 <a href = 'http://wcy.nfu.edu.cn/zh/教学教务/培养方案/网络与新媒体/'>网络与新媒体</a> 培养方案核心课程学期作品，由 <a href='http://wcy.nfu.edu.cn/zh/学院概况/师资队伍/廖汉腾/'>廖汉腾副教授</a> 指导"
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
-locale: zh_TW # 本地化翻譯
+locale: zh_TW # 本地化翻译
 url:
 feed:
   path: atom.xml
@@ -22,19 +22,23 @@ highlighter: rouge
 gems:
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
-
+  - jekyll-feed 
+  - jekyll-mermaid
+  
+mermaid:
+  src: 'https://unpkg.com/mermaid@7.1.2/dist/mermaid.min.js'
+  
 
 # Site owner
 owner:
-  name: jiangbingqian
-  email: 1031015453@qq.com
-  twitter: 
+  name: hanteng
+  email: hantengliao@qq.com
+  twitter: hanteng
   google:
     ad-client:
     ad-slot:
-  bio: "江冰茜，中山大学南方学院文传学院16级网络与新媒体专业学子，来自网络与新媒体2班。"
-  avatar: bio-photo.jpg # 160x160 px image for author byline
+  bio: "江冰茜，中山大学南方学院文传学院网络与新媒体专业学子"
+  avatar: girl.jpg # 160x160 px image for author byline
   disqus-shortname:
 
 
