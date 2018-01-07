@@ -5,7 +5,7 @@ title: "最新文章"
 ---
 
 <div class="tiles">
-{% for post in site.categories.SDG %}
+{% for post in site.posts %}
 	{% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
