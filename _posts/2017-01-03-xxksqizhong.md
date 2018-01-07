@@ -9,4 +9,4 @@ image:
 ---
 收集数据研究了夜宵店的分布及种类数量
 
-<iframe src="https://public.tableau.com/profile/koujii#!/vizhome/yexiao/1_1?publish=yes&publish=yes/Dashboard1?:showVizHome=no&:embed=true"></iframe>
+原链接在此  --->  [请点这里](https://public.tableau.com/profile/koujii#!/vizhome/yexiao/1_1?publish=yes)
