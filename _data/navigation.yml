@@ -1,22 +1,21 @@
 # Site navigation links
- 
+
 - title: 网页设计作品集
   url: /portfolio/
-  excerpt: "这学期制作的两个网站"
+  excerpt: 往期网页作品
   image: snow.gif
-
+  
 - title: 信息可视化作品集
   url: /infovis/
-  excerpt: "让数据更活灵活现"
+  excerpt: 往期tableau作品
   image: fire.gif
-
-- title: 网页设计笔记
+  
+- title: web笔记
   url: /posts/rwd/
-  excerpt: "HTML5的新语义元素"
+  excerpt: 记录知识点
   image: run.gif
   
 - title: 信息可视化笔记
   url: /posts/infovis/
-  excerpt: "可视化图表特点"
-  image: fly.gif
-
+  excerpt: "Github: SylviaTang"
+  image: fly.gif  
