@@ -1,22 +1,22 @@
 # Site navigation links
  
 - title: 网页设计作品集
-  url: /SDG/jiangbingqian1.github.io-master/
-  excerpt: "我的第一个网站"
+  url: /portfolio/
+  excerpt: "这学期制作的两个网站"
   image: snow.gif
 
 - title: 信息可视化作品集
-  url: /SDG/qizhong/
-  excerpt: "小组完成的关于农业的数据可视化分析"
+  url: /infovis/
+  excerpt: "让数据更活灵活现"
   image: fire.gif
 
 - title: 网页设计笔记
-  url: /SDG/
+  url: /posts/red/
   excerpt: "HTML5的新语义元素"
   image: run.gif
   
 - title: 信息可视化笔记
-  url: /SDG/
-  excerpt: "信息可视化笔记"
+  url: /posts/infovis/
+  excerpt: "可视化图表特点"
   image: fly.gif
 
