@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "最新文章"
+title: "信息可视化作品集"
 ---
 
 <div class="tiles">

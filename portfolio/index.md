@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "网页作品"
+title: "网页设计作品集"
 ---
 
 <div class="tiles">
